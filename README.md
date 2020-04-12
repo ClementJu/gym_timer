@@ -44,6 +44,6 @@ You can activate or deactivate vocal indications according to your preferences.
 
 The unilateral mode is to be used when you perform single-arm/leg exercises and rest between each side. The voice tells you which side is next (5 seconds before the end of the rest period).
 
-The "Tap to increase" settings determines how the timer duration increases when taping the timer duration. The range defines the interval and the step the time increment induced by a tap.
+The "Tap to increase" settings determine how the timer duration increases when taping the timer duration. The range defines the interval, and the step the time increment induced by a tap.
 
 <img src="https://github.com/ClementJu/gym_timer/blob/master/figs/settings.png" width="200">
