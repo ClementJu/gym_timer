@@ -12,7 +12,7 @@ The app is composed of three screens: Settings, Timer, Stopwatch.
 ### Timer is not running
 One tap on the time increases the counter by the amount of time defined in the settings (step). The time is bound by the interval defined in the settings (range).
 
-A long press on the time allows you to define the duration you want. If you leave the minutes or seconds empty, it is automatically replaced with "0".
+A long press on the time allows you to define the duration you want. If you leave the minutes or seconds empty, their value is automatically replaced with "0".
 
 A double tap on the set counter undoes the last action and reverts the list to the previous one. You can then redo your last action if necessary.
 
@@ -44,6 +44,6 @@ You can activate or deactivate vocal indications according to your preferences.
 
 The unilateral mode is to be used when you perform single-arm/leg exercises and rest between each side. The voice tells you which side is next (5 seconds before the end of the rest period).
 
-The "Tap to increase" settings determines how the timer duration increases when taping the timer duration. The range defines the interval and the step the time increment induced by a tap. 
+The "Tap to increase" settings determines how the timer duration increases when taping the timer duration. The range defines the interval and the step the time increment induced by a tap.
 
 <img src="https://github.com/ClementJu/gym_timer/blob/master/figs/settings.png" width="200">
