@@ -7,15 +7,15 @@ If you found the app useful and want to buy me a coffee: https://www.paypal.me/j
 
 Thanks to Gym Timer, you can train without looking at your timer every 10 seconds. Main features:
 
-### Timer
+### Timer
  * **Vocal indications** (which can be deactivated) tell you how much time is left before your next set. 
  * At the end, an **alarm** indicates you that the time is up. 
  * A **single beep sound** that is played at a **user-defined frequency** can be set up in addition to the vocal indications.
 
-### Stopwatch
+### Stopwatch
 * A **single beep sound** and a **double beep sound** that are played at a **user-defined frequency** can be set up.
 
-### Global
+### Global
  * Vocal indications, beeps and alarms are hearable **on top of your music**. 
  * Various **progress bars** show you a visual representation of the time remaining until the next beep or alarm.
  * Your **screen does not lock automatically** as long as the timer or the stopwatch is running.
