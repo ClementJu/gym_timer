@@ -3,7 +3,21 @@
 
 Flutter app - Gym timer and stopwatch with vocal indications, alarm and set counter
 
-Thanks to Gym Timer, you can train without looking at your timer every 10 seconds. Vocal indications (which can be deactivated) tell you how much time is left before your next set. At the end, an alarm indicates you that the time is up. Both are hearable on top of your music. Also, a stopwatch (which can run in parallel) is available. Your screen does not lock automatically as long as the timer or the stopwatch is running.
+If you found the app useful and want to buy me a coffee: https://www.paypal.me/julienclement
+Otherwise, just enjoy it! 😊
+
+Thanks to Gym Timer, you can train without looking at your timer every 10 seconds. Main features:
+* **Timer**
+ * **Vocal indications** (which can be deactivated) tell you how much time is left before your next set. 
+ * At the end, an **alarm** indicates you that the time is up. 
+ * A **single beep sound** that is played at a **user-defined frequency** can be set up in addition to the vocal indications.
+* **Stopwatch**
+* A **single beep sound** and a **double beep sound** that are played at a **user-defined frequency** can be set up.
+* **Global**
+ * Vocal indications, beeps and alarms are hearable **on top of your music**. 
+ * Various **progress bars** show you a visual representation of the time remaining until the next beep or alarm.
+ * Your **screen does not lock automatically** as long as the timer or the stopwatch is running.
+ * The timer and the stopwatch can **run in parallel**. 
 
 The app is composed of three screens: Settings, Timer, Stopwatch.
 
@@ -18,7 +32,7 @@ A double tap on the set counter undoes the last action and reverts the list to t
 
 The buttons allow to start the timer or reset everything (which clears the set list).
 
-<img src="https://github.com/ClementJu/gym_timer/blob/master/figs/timer.png" width="200">
+<img src="https://github.com/ClementJu/gym_timer/blob/master/figs/timer.png" width="1000">
 
 
 
@@ -35,7 +49,7 @@ The buttons allow to start the stopwatch or reset everything (clear the set list
 ### Stopwatch is running
 The buttons allow to stop the timer or reset everything (clear the set list).
 
-<img src="https://github.com/ClementJu/gym_timer/blob/master/figs/stopwatch.png" width="200">
+<img src="https://github.com/ClementJu/gym_timer/blob/master/figs/stopwatch.png" width="1000">
 
 ## Settings
 Define your own preferences.
@@ -46,4 +60,4 @@ The unilateral mode is to be used when you perform single-arm/leg exercises and 
 
 The "Tap to increase" settings determine how the timer duration increases when taping the timer duration. The range defines the interval, and the step the time increment induced by a tap.
 
-<img src="https://github.com/ClementJu/gym_timer/blob/master/figs/settings.png" width="200">
+<img src="https://github.com/ClementJu/gym_timer/blob/master/figs/settings.png" width="1000">
