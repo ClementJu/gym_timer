@@ -7,23 +7,26 @@ If you found the app useful and want to buy me a coffee: https://www.paypal.me/j
 
 Thanks to Gym Timer, you can train without looking at your timer every 10 seconds. Main features:
 
-### Timer
- * **Vocal indications** (which can be deactivated) tell you how much time is left before your next set. 
- * At the end, an **alarm** indicates you that the time is up. 
- * A **single beep sound** that is played at a **user-defined frequency** can be set up in addition to the vocal indications.
+### Global
+ * Vocal indications, beeps and alarms are hearable **on top of your music**.
+ * Various **progress bars** show you a visual representation of the time remaining until the next beep or alarm.
+ * **Notifications** showing the progress of the timer and the stopwatch.
+ * Your **screen does not lock automatically** as long as the timer or the stopwatch is running.
+ * The timer and the stopwatch can **run in parallel**.
 
-### Stopwatch
+### Specific to the timer
+ * **Vocal indications** (which can be deactivated) tell you how much time is left before your next set.
+ * At the end, a configurable **alarm** sound indicates you that the time is up.
+ * A **single beep sound** that is played at a **user-defined frequency** can be set up in addition to the vocal indications.
+ * In case of **unilateral** exercises with rest periods between sides, **vocal and visual** indications tell you which side is next.
+
+### Specific to the stopwatch
 * A **single beep sound** and a **double beep sound** that are played at a **user-defined frequency** can be set up.
 
-### Global
- * Vocal indications, beeps and alarms are hearable **on top of your music**. 
- * Various **progress bars** show you a visual representation of the time remaining until the next beep or alarm.
- * Your **screen does not lock automatically** as long as the timer or the stopwatch is running.
- * The timer and the stopwatch can **run in parallel**. 
 
 The app is composed of three screens: Settings, Timer, Stopwatch.
 
-## Timer
+## Screenshots and instructions
 
 ### Timer is not running
 One tap on the time increases the counter by the amount of time defined in the settings (step). The time is bound by the interval defined in the settings (range).
@@ -58,8 +61,16 @@ Define your own preferences.
 
 You can activate or deactivate vocal indications according to your preferences.
 
+You can select the timer alarm sound you want.
+
 The unilateral mode is to be used when you perform single-arm/leg exercises and rest between each side. The voice tells you which side is next (5 seconds before the end of the rest period).
 
 The "Tap to increase" settings determine how the timer duration increases when taping the timer duration. The range defines the interval, and the step the time increment induced by a tap.
 
 <img src="https://github.com/ClementJu/gym_timer/blob/master/figs/settings.png" width="1000">
+
+
+## Notifications
+Notifications (which can be deactivated) show you the progress of the timer and the stopwatch.
+
+<img src="https://github.com/ClementJu/gym_timer/blob/master/figs/notifications.png" width="1000">
